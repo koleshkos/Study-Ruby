@@ -8,7 +8,7 @@ class Car
 end
 
 bmw = Car.new("BMW E36", 220, "Black")
-audi = Car.new("AUDI A4", 230, "While")
+audi = Car.new("AUDI A4", 230, "Whi")
 
 
 puts "#{bmw.model} #{bmw.speed}"
